@@ -1,0 +1,320 @@
+case_id,date opened,case_type,location,victim,suspect,status
+unk001,21 February 2003,unknown,harbour,Chatgpt,Cortana,unknown
+unk002,02 February 2001,unknown,gulf street,X,Twitter,unknown
+unk003,03 December 2002,unknown,Gobbledegook bridge,Gobkin Gurbery,Venessa Von Neuman,unknown
+unk004,03 December 2002,unknown,Gobbledegook bridge,Ibbe Leas,Shaya The Teen Age Mutant,unknown
+unk005,03 December 2002,unknown,Gobbledegook bridge,Foolhu D. Handi,Hassan Thakuru,unknown
+unk006,03 December 2002,unknown,,Safaru KaiyDha,The 7 Children Of Hers,unknown
+unk007,03 December 2002,unknown,,Bulhaa Dhonbey,Insaan Kokko,unknown
+unk008,03 December 2002,unknown,,Anga G.D. Mithuru,Santhi Mary,unknown
+unk009,03 December 2002,unknown,,Anga M.D. Mithuru,Santhi Marianmbu,unknown
+unk010,03 December 2002,unknown,,Aaminabee,Foolhu D. Handi,unknown
+unk011,03 December 2002,unknown,,Hassan Thakuru,Foolhu D. Handi,closeed
+unk012,12 December 2002,unknown,Gobbledegook bridge,Al Bibi,Ali Naseer,closeed
+unk013,13 December 2002,unknown,Gobbledegook bridge,Ali Baba,Ali Express,closeed
+unk014,14 December 2002,unknown,Gobbledegook bridge,Dhon Hassan Manik,Kalhu Mohamed Manik,closeed
+unk015,15 December 2002,unknown,Gobbledegook bridge,Monkey D. Garp,Dadan,closeed
+unk016,16 December 2002,unknown,Gobbledegook bridge,Silvers Reyleigh,Shakki,closeed
+unk017,17 December 2002,unknown,Gobbledegook bridge,Tashigi,Smoker,closeed
+unk018,18 December 2002,unknown,Gobbledegook bridge,Roronoa Zoro,Directions,closeed
+unk019,19 December 2002,unknown,Gobbledegook bridge,,Directions,closeed
+unk020,20 December 2002,unknown,Gobbledegook bridge,,Directions,closeed
+mp001,21 December 2002,missing person,Gobbledegook bridge,Roronoa Zoro,,closeed
+mp002,22 December 2002,missing person,Gobbledegook bridge,Tony Tony Chopper,Cotton Candy,
+mp003,23 December 2002,missing person,Gobbledegook bridge,Roronoa Zoro,,
+mp004,24 December 2002,missing person,Gobbledegook bridge,,,
+mp005,25 December 2002,missing person,Lost Avenue,,,open
+mp006,26 December 2002,missing person,Lost Avenue,Peter Pattigrew,Sirius Black,open
+mp007,27 December 2002,missing person,Lost Avenue,James Potter,Peter Pattigrew,open
+mp008,28 December 2002,missing person,Lost Avenue,Lily Potter,,open
+mp009,29 December 2002,missing person,Lost Avenue,,,open
+mp010,30 December 2002,missing person,Lost Avenue,,Rando Guy,open
+mp011,31 December 2002,missing person,Lost Avenue,,Rando Guy,open
+mp012,01 January 2003,missing person,Lost Avenue,Go D. Usopp,Rando Guy,open
+mp013,02 January 2003,missing person,Lost Avenue,Go D. Usopp,Rando Guy,open
+mp014,03 January 2003,missing person,Lost Avenue,Go D. Usopp,Rando Guy,open
+mp015,04 January 2003,missing person,Lost Avenue,Go D. Usopp,Rando Guy,open
+mp016,05 January 2003,missing person,Lost Avenue,Go D. Usopp,Rando Guy,open
+mp017,06 January 2003,missing person,Lost Avenue,Go D. Usopp,Rando Guy,open
+mp018,07 January 2003,missing person,Lost Avenue,,Rando Guy,open
+mp019,08 January 2003,missing person,Lost Avenue,,Rando Guy,open
+mp020,09 January 2003,missing person,Lost Avenue,,Rando Guy,open
+mp021,10 January 2003,missing person,Lost Avenue,,Rando Guy,open
+mp022,11 January 2003,missing person,,Aaminabee,Rando Guy,open
+mp023,12 January 2003,missing person,,Aaminabee,Rando Guy,open
+mp024,13 January 2003,missing person,,Aaminabee,Rando Guy,open
+mp025,14 January 2003,missing person,Lost Avenue,Aaminabee,Rando Guy,open
+mp026,15 January 2003,missing person,Lost Avenue,Aaminabee,Rando Guy,open
+mp027,16 January 2003,missing person,Lost Avenue,Aaminabee,Rando Guy,open
+mp028,17 January 2003,missing person,Lost Avenue,Aaminabee,Rando Guy,open
+mp029,18 January 2003,missing person,Lost Avenue,Aaminabee,Rando Guy,open
+mp030,,missing person,Lost Avenue,Aaminabee,Rando Guy,open
+mp031,,missing person,Lost Avenue,Aaminabee,Rando Guy,open
+mp032,,missing person,Lost Avenue,,Rando Guy,open
+mp033,,missing person,Lost Avenue,,Rando Guy,open
+mp034,,missing person,Lost Avenue,,Rando Guy,open
+mp035,,missing person,Logic Error Lane,,Rando Guy,open
+mp036,,missing person,Lost Avenue,,Rando Guy,open
+frd001,,fraud,Alibi Alley,,Rando Guy,open
+frd002,,fraud,Alibi Alley,Less Ran Do Guy,Rando Guy,open
+frd003,,fraud,Alibi Alley,,Rando Guy,open
+frd004,,fraud,Alibi Alley,,Rando Guy,open
+frd005,,fraud,Alibi Alley,,Rando Guy,open
+frd006,,fraud,Alibi Alley,,Rando Guy,open
+frd007,,fraud,Alibi Alley,,Rando Guy,open
+frd008,,fraud,Alibi Alley,,Rando Guy,open
+frd009,,fraud,Alibi Alley,,Rando Guy,open
+frd010,,fraud,Alibi Alley,,Rando Guy,open
+frd011,05 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd012,06 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd013,07 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd014,08 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd015,09 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd016,10 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd017,11 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd018,12 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd019,13 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd020,14 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd021,15 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd022,16 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd023,17 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd024,18 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd025,19 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd026,20 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd027,21 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd028,22 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd029,23 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd030,24 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd031,25 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd032,26 February 2003,fraud,Alibi Alley,Franky,Rando Guy,open
+frd033,27 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd034,28 February 2003,fraud,Alibi Alley,,Rando Guy,open
+frd035,01 March 2003,fraud,Alibi Alley,,Rando Guy,open
+frd036,02 March 2003,fraud,Alibi Alley,,Rando Guy,open
+frd037,03 March 2003,fraud,Alibi Alley,,Rando Guy,open
+frd038,04 March 2003,fraud,Alibi Alley,,Rando Guy,open
+frd039,05 March 2003,fraud,Alibi Alley,,Rando Guy,open
+frd040,06 March 2003,fraud,Alibi Alley,,Rando Guy,open
+frd041,07 March 2003,fraud,Alibi Alley,,,open
+frd042,08 March 2003,fraud,Alibi Alley,,,open
+frd043,09 March 2003,fraud,Alibi Alley,,John Haseena,open
+frd044,10 March 2003,fraud,Alibi Alley,,John Haseena,open
+frd045,11 March 2003,fraud,Alibi Alley,Cutty Flam,Nico Robin,open
+frd046,12 March 2003,fraud,Alibi Alley,John Scena,John Haseena,open
+frd047,13 March 2003,fraud,Alibi Alley,John Scena,John Haseena,open
+frd048,14 March 2003,fraud,Alibi Alley,John Scena,John Haseena,open
+frd049,15 March 2003,fraud,Alibi Alley,,,open
+frd050,16 March 2003,fraud,Alibi Alley,,,open
+frd051,17 March 2003,fraud,Alibi Alley,,,open
+frd052,18 March 2003,fraud,Alibi Alley,,,open
+frd053,19 March 2003,fraud,Alibi Alley,,,open
+frd054,20 March 2003,fraud,Alibi Alley,,,open
+frd055,21 March 2003,fraud,Alibi Alley,,,open
+frd056,22 March 2003,fraud,Alibi Alley,,,open
+frd057,23 March 2003,fraud,Alibi Alley,,,open
+frd058,24 March 2003,fraud,Alibi Alley,,,open
+frd059,25 March 2003,fraud,Alibi Alley,Tom,Jerry,open
+frd060,26 March 2003,fraud,Alibi Alley,Tom,Jerry,open
+frd061,27 March 2003,fraud,Alibi Alley,Tom,Jerry,open
+frd062,28 March 2003,fraud,Alibi Alley,Tom,Jerry,open
+frd063,29 March 2003,fraud,Alibi Alley,Tom,Jerry,open
+frd064,30 March 2003,fraud,Alibi Alley,Tom,Jerry,open
+frd065,31 March 2003,fraud,Alibi Alley,Tom,Jerry,open
+frd066,01 April 2003,fraud,Alibi Alley,Tom,Jerry,confused
+frd067,02 April 2003,fraud,Alibi Alley,Tom,Jerry,confused
+frd068,03 April 2003,fraud,Alibi Alley,Tom,Jerry,confused
+frd069,04 April 2003,fraud,Alibi Alley,Tom,Jerry,confused
+frd070,05 April 2003,fraud,Alibi Alley,Tom,Jerry,confused
+frd071,06 April 2003,fraud,Logic Error Lane,Tom,Jerry,confused
+frd072,07 April 2003,fraud,Alibi Alley,,Jerry,confused
+frd073,08 April 2003,fraud,,,Jerry,confused
+frd074,09 April 2003,fraud,,,Jerry,confused
+frd075,10 April 2003,fraud,,,Jerry,confused
+frd076,11 April 2003,fraud,,,Jerry,confused
+frd077,12 April 2003,fraud,Alibi Alley,,Jerry,confused
+frd078,13 April 2003,fraud,Alibi Alley,,Jerry,confused
+frd079,14 April 2003,fraud,Alibi Alley,,Jerry,confused
+frd080,15 April 2003,fraud,Alibi Alley,,Jerry,confused
+frd081,16 April 2003,fraud,Alibi Alley,,Jerry,confused
+rob001,17 April 2003,robbery,,Karoo,Jewel,confused
+rob002,18 April 2003,robbery,,,Jerry,confused
+rob003,19 April 2003,robbery,,,Jerry,confused
+rob004,20 April 2003,robbery,,,Jerry,confused
+rob005,21 April 2003,robbery,,,Jerry,confused
+rob006,22 April 2003,robbery,Diagon Alley,,Jerry,confused
+rob007,23 April 2003,robbery,,,,confused
+rob008,24 April 2003,robbery,,,Water melone,confused
+rob009,25 April 2003,robbery,,,Water melone,confused
+rob010,26 April 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob011,27 April 2003,robbery,Diagonally,Apple C. Vin Eger,Water melone,confused
+rob012,28 April 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob013,29 April 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob014,30 April 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob015,01 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob016,02 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob017,03 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob018,04 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob019,05 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob020,06 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob021,07 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob022,08 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob023,09 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob024,10 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob025,11 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob026,12 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob027,13 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob028,14 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob029,15 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob030,16 May 2003,robbery,,Apple C. Vin Eger,Water melone,confused
+rob031,17 May 2003,robbery,Logic Error Lane,Apple C. Vin Eger,,confused
+rob032,18 May 2003,robbery,Kurta Bean Magu Street Road,,,confused
+rob033,19 May 2003,robbery,,,Water melone,confused
+rob034,20 May 2003,robbery,,,,confused
+rob035,21 May 2003,robbery,,,,confused
+rob036,22 May 2003,robbery,,,,confused
+rob037,23 May 2003,robbery,,,,confused
+rob038,24 May 2003,robbery,,,,confused
+rob039,25 May 2003,robbery,,Traffy,Bepo,confused
+rob040,26 May 2003,robbery,,,Bepo,confused
+rob041,27 May 2003,robbery,,,Bepo,confused
+rob042,28 May 2003,robbery,,,Bepo,confused
+rob043,29 May 2003,robbery,,,Bepo,confused
+rob044,30 May 2003,robbery,,Trafalgar D. Law,Bepo,confused
+rob045,31 May 2003,robbery,,,Bepo,confused
+rob046,01 June 2003,robbery,,L,Bepo,confused
+rob047,02 June 2003,robbery,,L,Bepo,confused
+rob048,03 June 2003,robbery,,L,Bepo,confused
+rob049,04 June 2003,robbery,,L,Bepo,confused
+rob050,05 June 2003,robbery,,L,,confused
+rob051,06 June 2003,robbery,,L,,confused
+rob052,07 June 2003,robbery,,L,,confused
+murd001,08 June 2003,murder,Logic Error Lane,L,Light Yagami,confused
+murd002,09 June 2003,murder,Definitely Not A Trap Street,Vegeta,Light Yagami,confused
+murd003,10 June 2003,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd004,11 June 2003,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd005,12 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd006,13 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd007,14 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd008,15 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd009,16 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd010,17 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd011,18 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd012,19 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd013,20 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd014,21 June 2003,murder,Definitely Not A Trap Street,Uchiha Sasuke,Light Yagami,confused
+murd015,22 June 2003,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd016,23 June 2003,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd017,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd018,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd019,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd020,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd021,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd022,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd023,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd024,,murder,Definitely Not A Trap Street,,Light Yagami,confused
+murd025,,murder,,,Light Yagami,confused
+murd026,,murder,,,Light Yagami,confused
+murd027,,murder,,,Light Yagami,confused
+murd028,,murder,Ministry of Magic,Sirius Black,Bellatrix Lestrange,confused
+murd029,,murder,Definitely Not A Trap Street,,,confused
+murd030,07 July 2003,murder,Definitely Not A Trap Street,,,confused
+murd031,08 July 2003,murder,Definitely Not A Trap Street,,,confused
+murd032,09 July 2003,murder,Definitely Not A Trap Street,,,confused
+murd033,10 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,confused
+murd034,11 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,confused
+murd035,12 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,confused
+murd036,13 July 2003,murder,Definitely Not A Trap Street,Im Not Lost,Zoro,confused
+murd037,14 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,confused
+murd038,15 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,open
+murd039,16 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,open
+murd040,17 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,open
+murd041,18 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,open
+murd042,19 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,open
+murd043,20 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,open
+murd044,21 July 2003,murder,Definitely Not A Trap Street,,Levi Ackerman,open
+murd045,22 July 2003,murder,Definitely Not A Trap Street,Levi Ackerman,Levi Ackerman,open
+murd046,23 July 2003,murder,Definitely Not A Trap Street,Levi Ackerman,,open
+murd047,24 July 2003,murder,Definitely Not A Trap Street,Levi Ackerman,,open
+murd048,25 July 2003,murder,Definitely Not A Trap Street,Levi Ackerman,Zac Beterpan,open
+murd049,26 July 2003,murder,Definitely Not A Trap Street,,Zac Beterpan,open
+murd050,27 July 2003,murder,Definitely Not A Trap Street,,Zac Beterpan,open
+murd051,28 July 2003,murder,Definitely Not A Trap Street,,Zac Beterpan,open
+murd052,29 July 2003,murder,Definitely Not A Trap Street,,Zac Beterpan,open
+murd053,30 July 2003,murder,Definitely Not A Trap Street,,Zac Beterpan,open
+murd054,31 July 2003,murder,,,Zac Beterpan,open
+murd055,01 August 2003,murder,,,Zac Beterpan,open
+murd056,02 August 2003,murder,,,Zac Beterpan,open
+murd057,03 August 2003,murder,,,Zac Beterpan,open
+murd058,04 August 2003,murder,,,Zac Beterpan,open
+murd059,05 August 2003,murder,,,Zac Beterpan,open
+murd060,06 August 2003,murder,,,Zac Beterpan,open
+murd061,07 August 2003,murder,,,Zac Beterpan,open
+murd062,08 August 2003,murder,,,Zac Beterpan,open
+murd063,09 August 2003,murder,,I cant Name All,I cant Name All,open
+murd064,10 August 2003,murder,Logic Error Lane,I cant Name All,I cant Name All,open
+murd065,11 August 2003,murder,Logic Error Lane,I cant Name All,I cant Name All,open
+murd066,12 August 2003,murder,Logic Error Lane,I cant Name All,I cant Name All,open
+murd067,13 August 2003,murder,,I cant Name All,I cant Name All,open
+murd068,,murder,,I cant Name All,I cant Name All,open
+murd069,,murder,,I cant Name All,I cant Name All,open
+murd070,,murder,,I cant Name All,I cant Name All,open
+murd071,,murder,,I cant Name All,I cant Name All,open
+murd072,,murder,,I cant Name All,I cant Name All,open
+murd073,,murder,,I cant Name All,I cant Name All,open
+murd074,,murder,,I cant Name All,I cant Name All,open
+murd075,,murder,,I cant Name All,I cant Name All,open
+murd076,,murder,,I cant Name All,I cant Name All,open
+murd077,,murder,,I cant Name All,I cant Name All,open
+murd078,,murder,,I cant Name All,I cant Name All,open
+murd079,25 August 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd080,26 August 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd081,27 August 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd082,28 August 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd083,29 August 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd084,30 August 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd085,31 August 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd086,01 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd087,02 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd088,03 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd089,04 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd090,05 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd091,06 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd092,07 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd093,08 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd094,09 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd095,10 September 2003,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd096,,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd097,,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd098,,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd099,,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd100,,murder,Evidence Avenue,I cant Name All,I cant Name All,open
+murd101,,murder,,I cant Name All,I cant Name All,open
+murd102,,murder,,I cant Name All,I cant Name All,open
+murd103,,murder,Cold Case Court,I cant Name All,I cant Name All,open
+murd104,19 September 2003,murder,,,,open
+murd105,20 September 2003,murder,Whisper Way,,,open
+murd106,21 September 2003,murder,Whisper Way,,,open
+murd107,22 September 2003,murder,,,Van Gogh,open
+murd108,23 September 2003,murder,,,Van Gogh,open
+murd109,24 September 2003,murder,,,Van Gogh,open
+murd110,25 September 2003,murder,Logic Error Lane,,Van Gogh,open
+murd111,26 September 2003,murder,,,Van Gogh,open
+murd112,27 September 2003,murder,Schr�dinger Street,,Van Gogh,open
+murd113,28 September 2003,murder,Schr�dinger Street,,Van Gogh,open
+murd114,29 September 2003,murder,Schr�dinger Street,,Van Gogh,open
+murd115,30 September 2003,murder,Schr�dinger Street,Schr�dinger's Cat,Van Gogh,open
+murd116,01 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,,open
+murd117,02 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,,open
+murd118,03 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,Albus DumbleDore,open
+murd119,04 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,Albus DumbleDore,open
+murd120,05 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,Albus DumbleDore,open
+murd121,06 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,Albus DumbleDore,open
+murd122,07 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,Albus DumbleDore,closed
+murd123,08 October 2003,murder,Schr�dinger Street,Schr�dinger's Cat,Albus DumbleDore,closed
+murd124,09 October 2003,murder,,Schr�dinger's Cat,Albus DumbleDore,closed
+murd125,10 October 2003,murder,Logic Error Lane,Schr�dinger's Cat,,closed
+murd126,11 October 2003,murder,Skullduggery Road,Schr�dinger's Cat,,closed
+murd127,,murder,Skullduggery Road,Schr�dinger's Cat,,closed
+murd128,13 October 2003,murder,Evidence Avenue,Snow White,Apple,closed
+,,,,,,
+murd130,15 October 2003,murder,Skullduggery Road,Donald Duck,Daisy Duck,closed
