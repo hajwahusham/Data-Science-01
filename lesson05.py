@@ -18,6 +18,8 @@ housedf.columns
 
 # create pairplot
 sns.pairplot(housedf)
+plt.show()
 
 # create heatmap of correlations
-sns.heatmap(housedf.corr(), annot=True)
+sns.heatmap(housedf.corr(numeric_only=True), annot=True)
+plt.show()
